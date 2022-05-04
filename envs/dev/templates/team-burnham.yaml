@@ -16,9 +16,9 @@ source:
     targetRevision: main
     path: teams/team-burnham/dev
     helm:
-    parameters:
-    - name: spec.ingress.host
-        value: dev.example.com
+        parameters:
+        - name: spec.ingress.host
+            value: dev.example.com
 syncPolicy:
     automated:
     prune: true
