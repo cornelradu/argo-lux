@@ -1,0 +1,1 @@
+{"apiVersion": "k8s.cni.cncf.io/v1", "kind": "NetworkAttachmentDefinition", "metadata": {"name": "859b154", "namespace": "default"}, "spec": {"config": "{\"cniVersion\": \"0.3.0\", \"type\": \"calico\", \"delegate\": {\"isDefaultGateway\": true}, \"created_by\": \"SDL\"}"}}
