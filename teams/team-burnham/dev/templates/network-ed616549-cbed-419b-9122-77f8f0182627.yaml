@@ -1,0 +1,1 @@
+{"apiVersion": "k8s.cni.cncf.io/v1", "kind": "NetworkAttachmentDefinition", "metadata": {"name": "82b05e7", "namespace": "team-burnham"}, "spec": {"config": "{\"cniVersion\": \"0.3.0\", \"type\": \"flannel\", \"delegate\": {\"isDefaultGateway\": true}, \"created_by\": \"SDL\"}"}}
